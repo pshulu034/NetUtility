@@ -1,6 +1,6 @@
 using System;
 using System.Threading.Tasks;
-using NetUtility;
+using EthernetUtility;
 
 namespace EthernetUtilityDemo
 {

@@ -5,7 +5,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetUtility
+namespace EthernetUtility
 {
     /// <summary>
     /// ICMP 协议常用功能封装：Ping、连通性检查、简单路由跟踪（Traceroute 风格）

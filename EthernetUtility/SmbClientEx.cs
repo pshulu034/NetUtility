@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.InteropServices;
 
-namespace NetUtility
+namespace EthernetUtility
 {
     /// <summary>
     /// 网络共享访问管理：

@@ -1,4 +1,4 @@
-﻿using NetUtility;
+﻿using EthernetUtility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,7 +26,7 @@ namespace EthernetUtilityDemo
 
             // Initialize HttpManager
             string baseUrl = "https://jsonplaceholder.typicode.com";
-            using var httpManager = new NetUtility.HttpClientEx(baseUrl);
+            using var httpManager = new EthernetUtility.HttpClientEx(baseUrl);
 
             try
             {

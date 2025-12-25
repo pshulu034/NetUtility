@@ -6,7 +6,7 @@ using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetUtility
+namespace EthernetUtility
 {
 
     public interface ISmtpClient : IDisposable
